@@ -1,6 +1,7 @@
 # z3r0Tools
-z3r0 c00l to search , clear , remove duplicate and marge ips  
+z3r0 c00l to search , clear , remove duplicate and Merge ips  
 for windows client use this tools to run script : https://git-scm.com/downloads
+
 Usge : ./z3r0
 
         ###############################################################
@@ -19,7 +20,7 @@ Usge : ./z3r0
 
    1) search & clean & remove duplicate Tools
    2) Clear sip ips
-   3) Remove Dublecte line Tools
+   3) Remove duplicate line Tools
    4) Split File Tools
    5) Genrate list number Tools
    6) Merge all (text) files Tools
