@@ -1,6 +1,6 @@
 # z3r0Tools
 z3r0 c00l to search , clear , remove duplicate and marge ips  
-
+for windows client use this tools to run script : https://git-scm.com/downloads
 Usge : ./z3r0
 
         ###############################################################
