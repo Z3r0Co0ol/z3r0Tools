@@ -27,5 +27,3 @@ Usge : ./z3r0
    7) Extracting User:Pass to special file Tools
    8) install Centos library
    9) install Ubuntu library
-
-YouTube : https://www.youtube.com/channel/UC3PT-XKaMm4jZGwNjYc25Ow?view_as=subscriber
